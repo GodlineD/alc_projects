@@ -1,6 +1,6 @@
 function switchOff(){
 
-       document.getElementById("black").src="bulbs/black_out.jpg";
+       document.getElementById("black").src="bulbs/black_canvas.jpg";
 
 }
 
